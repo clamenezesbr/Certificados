@@ -11,20 +11,7 @@ I’m a Computer Science student at Mackenzie Presbyterian University and a Clou
 
 ---
 
-## 🗂️ Structure
-
-Certificates are organized by category:
-
-| 🧠 Category           | Description                                               |
-|----------------------|-----------------------------------------------------------|
-| `tech/`              | Technical certifications: languages, frameworks, tools   |
-| `cloud/`             | Cloud computing & infrastructure-related certificates     |
-| `soft-skills/`       | Communication, leadership, productivity, etc.             |
-| `in-progress/`       | Certificates that are currently being completed           |
-
----
-
-## 🖼️ Visual Example
+## 🖼️ Certificates
 
 <table>
   <tr>
@@ -36,12 +23,6 @@ Certificates are organized by category:
     <td><img src="https://i.ibb.co/L3sB7gs/GABRIEL-MENEZES.png" width="350"/></td>
   </tr>
 </table>
-
----
-
-## ⏳ In Progress
-
-![Certificate In Progress](https://i.ibb.co/2hh9TXG/certificado-em-andamento.png)
 
 ---
 
