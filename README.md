@@ -31,7 +31,7 @@ I’m a Computer Science student at Mackenzie Presbyterian University and a Clou
 Want to chat, collaborate, or suggest a cool course?
 
 - 📧 [E-mail](mailto:ga.menezes@hotmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-resende-menezes/)  
 - 💬 [WhatsApp](https://wa.me/5511915834028)
 
 ---
